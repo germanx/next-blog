@@ -16,4 +16,4 @@ npm install -D @tailwindcss/typography
 
 ### mdx-remote
 
-npm i next-mdx-remote
+npm i next-mdx-remote-client
